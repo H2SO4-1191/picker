@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Picker</string>
+    <string name="pick">Pick</string>
+    <string name="help">Let me help you choose</string>
+    <string name="add">Add Option</string>
+    <string name="show">Show Options</string>
+    <string name="tip">Type here</string>
+    <string name="options">Options List</string>
+    <string name="remove">Remove Option/s</string>
+</resources>
